@@ -1,0 +1,18 @@
+h1{
+  color:rgb(255, 0, 0);
+}
+p{
+  font-size: 10px;
+  font-style: italic;
+  font-weight: bold;
+  border: 5px solid #0033d2;
+  border-bottom: color: red;
+}
+
+#first{
+  border-color: green;
+  line-height: 10px
+}
+.highlight {
+  background-color: yellow;
+}
