@@ -6,7 +6,7 @@ h1{
   padding-left: 500px;
   padding-top: 0px;
   margin: 0;
-  color: blue;
+  color: #FF69B4;
 }
 
 #left-column{
@@ -17,10 +17,22 @@ h1{
   font-size: 20px;
   font-family: Arial;
   line-height: 2;
-  padding-left: 580px;
+  padding-left: 590px;
   padding-top: 0px;
 }
+
+
 ul{
   padding: 6%;
   padding-left: 3px;
+  position: sticky;
+  text-align:left;
+  background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+
+
 }
