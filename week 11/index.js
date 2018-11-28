@@ -5,7 +5,7 @@ box.addEventListener("click", onBoxClick)
 function onBoxClick(){
   if (box.style.backgroundColor == "red"){
   box.style.backgroundColor = "blue"}
-   else { 
+   else {
   box.style.backgroundColor = "red"
 }
 
