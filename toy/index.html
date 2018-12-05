@@ -6,9 +6,25 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-      <div id="square"><img src="1.png"</div>
+      <div id="square"><img src="1.jpg"</div>
 
+      <div id="box" style="animation-play-state: paused; left: 720px; top: 720px;">
+<img class="arrow" src="3.jpg">
+    </div>
+
+      <p>Are you ready?</p>
+
+      <button id="myBtn">Play</button>
+
+      <script>
+      document.getElementById("myBtn").addEventListener("click", myFunction);
+
+      function myFunction() {
+          alert ("Welcome!");
+      }
+      </script>
 
     <script src="main.js"></script>
+
   </body>
 </html>
