@@ -35,3 +35,23 @@ document.addEventListener("mousemove", handleMouseMove)
 function handleMouseMove(evt) {
     console.log(evt)
 }
+
+function changepicture() {
+  document.getElementById("balloon").src = "2.png";
+  console.log("click")
+}
+
+function changepicture2() {
+  document.getElementById("balloon2").src = "2.png";
+  console.log("click")
+}
+
+function changepicture3() {
+  document.getElementById("balloon3").src = "2.png";
+  console.log("click")
+}
+
+function changepicture4() {
+  document.getElementById("balloon4").src = "2.png";
+  console.log("click")
+}

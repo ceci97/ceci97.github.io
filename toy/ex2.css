@@ -27,13 +27,61 @@
   animation: mymove 4s infinite;
   max-height: 100px;
   max-width: 150px;
-  width: 50px;
-  height: 50px;
+  width: 15%;
+  height: 40%;
 
 }
 #balloon:hover{
     animation-play-state: paused;
-    height: 80px;
+    height: 40%;
+     width: 40%;
+}
+
+#balloon2{
+  position: absolute;
+  animation: mymove 4s infinite;
+  max-height: 100px;
+  max-width: 150px;
+  width: 15%;
+  height: 40%;
+  top: 30%;
+
+}
+#balloon2:hover{
+    animation-play-state: paused;
+    height: 40%;
+     width: 40%;
+}
+
+#balloon3{
+  position: absolute;
+  animation: mymove 4s infinite;
+  max-height: 100px;
+  max-width: 150px;
+  width: 15%;
+  height: 40%;
+  top: 40%;
+
+}
+#balloon3:hover{
+    animation-play-state: paused;
+    height: 40%;
+     width: 40%;
+}
+
+#balloon4{
+  position: absolute;
+  animation: mymove 4s infinite;
+  max-height: 100px;
+  max-width: 150px;
+  width: 15%;
+  height: 40%;
+  top: 20%;
+
+}
+#balloon4:hover{
+    animation-play-state: paused;
+    height: 40%;
      width: 40%;
 }
 
