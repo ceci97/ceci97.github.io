@@ -55,3 +55,13 @@ function changepicture4() {
   document.getElementById("balloon4").src = "2.png";
   console.log("click")
 }
+
+function changepicture5() {
+  document.getElementById("balloon5").src = "2.png";
+  console.log("click")
+}
+
+function changepicture6() {
+  document.getElementById("balloon6").src = "2.png";
+  console.log("click")
+}
